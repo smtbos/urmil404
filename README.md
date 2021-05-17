@@ -6,12 +6,12 @@
 
 ## About
 
-I am Urmil Rupareliya. I am a third-year undergraduate student at Saurashtra University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am an aspiring Junior Android Developer at [Flopcoders](https://flopcoders.com/), presently leading the [Flopcoders Team](https://www.flopcoders.com/team) as the President, one of the Core Team Member of [Flopcoders](https://www.flopcoders.com) and Android Engineer Lead at [IoT Lab](http://www.leadstack.in). My other interests aside from Machine Learning are Backend Development, Cyber Security and Flutter.
+I am Urmil Rupareliya. I am a third-year undergraduate student at Saurashtra University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am an aspiring Junior Android Developer at [Flopcoders](https://flopcoders.com/), presently leading the [Flopcoders Team](https://www.flopcoders.com/team) as the President, one of the Core Team Member of [Flopcoders](https://www.flopcoders.com) and Android Engineer Lead at [IoT Lab](http://www.lidstack.in). My other interests aside from Machine Learning are Backend Development, Cyber Security and Flutter.
 
 <table>
   <tr>
       <td><a href="https://github.com/urmil89"><img src="https://img.shields.io/github/followers/urmil89.svg?label=GitHub&style=social" alt="GitHub"></a></td>
-    <td><a href="https://twitter.com/SayanNa20204009"><img src="https://img.shields.io/twitter/follow/SayanNa20204009?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="https://twitter.com/urmil89"><img src="https://img.shields.io/twitter/follow/SayanNa20204009?label=Twitter&style=social" alt="Twitter"></a></td>
     <td><a href="https://www.linkedin.com/in/urmil89"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
     <td><a href="mailto:urmil8989@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
