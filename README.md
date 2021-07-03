@@ -79,7 +79,6 @@ I am Urmil Rupareliya. I am a third-year undergraduate student at Saurashtra Uni
 
 <br>
 <br>
-
 <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/urmil89/urmil89/blob/main/PNG/left.png">
@@ -100,6 +99,7 @@ I am Urmil Rupareliya. I am a third-year undergraduate student at Saurashtra Uni
     <img src="https://github-readme-stats.vercel.app/api?username=urmil89&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="Urmil's github stats"/>
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/urmil89">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urmil89&layout=compact&theme=dark&hide_border=true"/>
