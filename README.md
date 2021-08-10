@@ -5,7 +5,7 @@
 
 👋 Hi, I am Urmil Rupareliya (aka) Urmilsir
 
-*Python & Node Developer at FirstCry*
+*Python Developer at FirstCry*
 
 - I [`build`](https://urmil.tech/#projects) things for the Web.
 - I'm a passionate [`automation and cyber sec`](https://instagram.com/urmilsir).
@@ -17,13 +17,13 @@
 
 ## About
 
-I am Urmil Rupareliya. I am completing my  B.C.A. at Saurashtra University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am an aspiring Junior Android Developer at [Flopcoders](https://flopcoders.com/), presently leading the [Flopcoders Team](https://www.flopcoders.com/team) as the President, one of the Core Team Member of [Flopcoders](https://www.flopcoders.com) and Android Engineer Lead at [IoT Lab](http://www.lidstack.in). My other interests aside from Machine Learning are Backend Development, Cyber Security and Flutter.
+I am Urmil Rupareliya. I am completing my  B.C.A. at Saurashtra University. I am an aspiring Seniour Python Developer at [Flopcoders](https://flopcoders.com/), presently leading the [Flopcoders Team](https://www.flopcoders.com/team) as the President, one of the Core Team Member of [Flopcoders](https://www.flopcoders.com) and Android Engineer Lead at [IoT Lab](http://www.lidstack.in). My other interests aside from Machine Learning, Cyber Security and Automation.
 
 <br>
 <br>
 <p align="center" >
 	<a href="https://github.com/urmil89"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/urmil89/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.linkedin.com/in/urmilsir/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/urmil89"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/urmilsir/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
   	<a href="https://twitter.com/urmilsir"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
