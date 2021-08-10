@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Urmil</h1>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Urmil! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <a href="https://ayushgupta.tech" target="_blank" rel="noreferrer"><img align="right" src="https://user-images.githubusercontent.com/21218732/108165714-05c74a80-7119-11eb-9a61-2963220f99de.png" alt="Personaised GitHub Octocat of Ayush Gupta" width=300px height=300px/>
 </a>
@@ -34,10 +34,6 @@ I am Urmil Rupareliya. I am completing my  B.C.A. at Saurashtra University. I am
 ![](https://activity-graph.herokuapp.com/graph?username=urmil89&theme=react-dark&hide_border=true&area=true)
 
 <br>
-<br>
-
 <div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
