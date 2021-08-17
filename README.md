@@ -35,5 +35,11 @@ I am Urmil Rupareliya. I am completing my  B.C.A. at Saurashtra University. I am
 
 <br>
 <div align="center">
-### Show some ❤️ by starring some of the repositories!
+🚀 Show some ❤️ by starring some of the repositories!
 </div>
+<br>
+
+<h1 align = 'Center'>Watch a 🐍 Python eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/urmil89/urmil89/blob/main/snake.svg" alt="snake"></center>
+</p>
