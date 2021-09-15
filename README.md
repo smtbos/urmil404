@@ -8,8 +8,8 @@
 *Python Developer at FirstCry*
 
 - I [`build`](https://urmil.tech/#projects) things for the Web.
-- I'm a passionate [`automation and cyber sec`](https://instagram.com/urmilsir).
-- I have keen interest in AI, Cyber Security.
+- I'm a passionate [`web dev and cyber sec`](https://instagram.com/urmilsir).
+- I have keen interest in Web, Cyber Security.
 
 <br>
 <br>
@@ -38,8 +38,3 @@ I am Urmil Rupareliya. I am completing my  B.C.A. at Saurashtra University. I am
 🚀 Show some ❤️ by starring some of the repositories!
 </div>
 <br>
-
-<h1 align = 'Center'>Watch a 🐍 Python eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/urmil89/urmil89/blob/main/snake.svg" alt="snake"></center>
-</p>
