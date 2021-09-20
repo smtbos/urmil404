@@ -9,7 +9,7 @@
 
 - I [`build`](https://urmil.tech/#projects) things for the Web.
 - I'm a passionate [`web dev and cyber sec`](https://instagram.com/urmilsir).
-- I have keen interest in Web, Cyber Security.
+- I have been interest in Web, Android Pentesting.
 
 <br>
 <br>
@@ -17,7 +17,7 @@
 
 ## About
 
-I am Urmil Rupareliya. I am completing my  B.C.A. at Saurashtra University. I am an aspiring Seniour Python Developer at [Flopcoders](https://flopcoders.com/), presently leading the [Flopcoders Team](https://www.flopcoders.com/team) as the President, one of the Core Team Member of [Flopcoders](https://www.flopcoders.com) and Android Engineer Lead at [IoT Lab](http://www.lidstack.in). My other interests aside from Machine Learning, Cyber Security and Automation.
+I am Urmil Rupareliya. I'm just Completed my B.C.A. from Saurashtra University Rajkot. I am an aspiring Seniour Web Developer at [Flopcoders Community](https://flopcoders.com/), presently leading the [Flopcoders Team](https://www.flopcoders.com/team) as the President, one of the Core Team Member of [Google Developer Student Club](https://gdsc.community.dev/parul-university-vadodara) , My other interests aside from Machine Learning, Cyber Security and Automation.
 
 <br>
 <br>
