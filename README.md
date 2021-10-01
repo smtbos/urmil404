@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Urmil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, It's me Urmil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <a href="https://ayushgupta.tech" target="_blank" rel="noreferrer"><img align="right" src="https://user-images.githubusercontent.com/21218732/108165714-05c74a80-7119-11eb-9a61-2963220f99de.png" alt="Personaised GitHub Octocat of Ayush Gupta" width=300px height=300px/>
 </a>
