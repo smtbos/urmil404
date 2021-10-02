@@ -12,13 +12,13 @@
 
 <br>
 <div align="center">
- <h1>🚀 Javascript is my sword ⚔<h1>
+ <h1>🦉Javascript is my sword ⚔<h1>
 </div>
 <br>
 
 ## About me
 
-<h3>I am Urmil Rupareliya. I'm just Completed my B.C.A. from Saurashtra University Rajkot. I am an aspiring Seniour Web Developer at [Flopcoders Community](https://flopcoders.com/), presently leading the [Flopcoders Team](https://www.flopcoders.com/team) as the President, one of the Core Team Member of [Google Developer Student Club](https://gdsc.community.dev/parul-university-vadodara) , My other interests aside from Machine Learning, Cyber Security and Automation.</h3>
+I am Urmil Rupareliya. I'm just Completed my B.C.A. from Saurashtra University Rajkot. I am an aspiring Seniour Web Developer at [Flopcoders Community](https://flopcoders.com/), presently leading the [Flopcoders Team](https://www.flopcoders.com/team) as the President, one of the Core Team Member of [Google Developer Student Club](https://gdsc.community.dev/parul-university-vadodara) , My other interests aside from Machine Learning, Cyber Security and Automation.
 
 <br>
 <br>
