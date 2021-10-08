@@ -23,16 +23,16 @@ I am Urmil Rupareliya. I'm just Completed my B.C.A. from Saurashtra University R
 <br>
 <br>
 <p align="center" >
-	<a href="https://github.com/urmil89"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/urmilsir/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/urmil89"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/urmilsir/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-  	<a href="https://twitter.com/urmilsir"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+	<a href="https://github.com/urmil404"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/urmil404"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/urmil404"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/urmil404"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+  	<a href="https://twitter.com/urmil404"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
   	<a href="https://www.youtube.com/channel/UCuLGk0oGmabbOvkeDw8lhIw"><img alt="youtube" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/youtube.png"/></a>
 </p>
 
 
-![](https://activity-graph.herokuapp.com/graph?username=urmil89&theme=react-dark&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=urmil404&theme=react-dark&hide_border=true&area=true)
 
 <br>
 <div align="center">
