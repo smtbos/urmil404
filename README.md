@@ -1,13 +1,13 @@
 <h1>नमस्ते 🙏🏻, It's me Urmil <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
-<a href="https://ayushgupta.tech" target="_blank" rel="noreferrer"><img align="right" src="https://user-images.githubusercontent.com/21218732/108165714-05c74a80-7119-11eb-9a61-2963220f99de.png" alt="Personaised GitHub Octocat of Ayush Gupta" width=300px height=300px/>
+<a href="https://urmil.tech" target="_blank" rel="noreferrer"><img align="left" src="https://user-images.githubusercontent.com/21218732/108165714-05c74a80-7119-11eb-9a61-2963220f99de.png" alt="Personaised GitHub Octocat of Urmil Rupareliya" width=300px height=300px/>
 </a>
 
 👋 Hi, I am Urmil Rupareliya
 
 
 - I [`build`](https://urmil.tech/#projects) things for the Web.
-- I'm a passionate [`web dev and cyber sec`](https://instagram.com/urmilsir).
+- I'm a passionate [`web dev and cyber sec`](https://instagram.com/urmil404).
 - I have been interest in Web Pentesting & Bug Bounty.
 
 <br>
