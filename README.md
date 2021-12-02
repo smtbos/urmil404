@@ -66,6 +66,25 @@
   	<a href="https://twitter.com/urmil404"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
   	<a href="https://www.youtube.com/channel/UCuLGk0oGmabbOvkeDw8lhIw"><img alt="youtube" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/youtube.png"/></a>
 </p>
+	
+	
+
+#
+
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br>
+
+<p align="center">
+  <a href="https://github.com/dharmik225">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=urmil404&count_private=true&theme=cobalt" alt="dharmik225" />
+  </a>
+</p>
+</details>
+<br>
 
 ![](https://activity-graph.herokuapp.com/graph?username=urmil404&theme=react-dark&hide_border=true&area=true)
 
