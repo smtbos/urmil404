@@ -5,13 +5,13 @@
 
 👋 Hi, I am Urmil Rupareliya
 
-- I [`build`](https://urmil.tech/#projects) things for the Web.
-- I'm a passionate [`web dev and cyber sec`](https://instagram.com/urmil404).
-- I have been interest in Web Pentesting & Bug Bounty.
+- I [`build`](https://urmil.tech/#projects) things for the Android.
+- I'm a passionate [`app dev and cyber security`](https://instagram.com/urmil404).
+- I have been interest in Android Pentesting & App developement.
 
 <br>
 <div align="center">
-<h1><code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code> Javascript is my sword ⚔<h1>
+<h1><code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"/></code>Exploring Android<h1>
 </div>
 <br>
 <br>
@@ -21,41 +21,9 @@
 
  <samp>
    I am a First Year Student at Parul University currently undertaking my Masters in MCA. I'm a FullStack Developer. I'm deeply passionate about Linux & Cyber Security.
-</samp> <br/><br/>
+</samp>
+<br/><br/>
 <br>
-
-<p align="center">
-👨‍💻Programming Languages<br><br>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/></code>
-</p>
-<br/><br/>
-<p align="center">
-🔄Frameworks & Libraries<br><br>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"/></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/></code>
-<br/><br/>
-<p align="center">
-💾Databases<br><br>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/></code>
-</p>
-<br/><br/>
-<p align="center">
-⚙️Others<br><br>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></code></p>
-<br/>
 
 
 <p align="center">
