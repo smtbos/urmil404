@@ -4,7 +4,7 @@
 
 ##### I am a FullStack developer with 1+ years of experience building Web & Mobile Applications.
 
-- 🌱 I’m currently learning How Websites build.
+- 🌱 I’m currently learning How Websites & Apps build.
 - 💻 Expert in Python. 
 - May be In Future, Jarvis Developer😁.
 - Part-Time Canva Designer. 
