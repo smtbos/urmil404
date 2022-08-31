@@ -8,7 +8,7 @@
 - 💻 Expert in Python. 
 - May be In Future, Jarvis Developer😁.
 - Part-Time Canva Designer. 
-- I have better Expearience on Front-End.
+- I have better Experience on Front-End.
 - I believe Everybody can Code.
 
 ##### Online Presence
